@@ -1,0 +1,21 @@
+body { 
+    background-color: #ffffff;
+    font-family: 'Lato', sans-serif;
+}
+
+.outer-div {
+     padding: 30px;
+     background-image: url('tommyboy2.jpg');
+     background-repeat: no-repeat;
+     background-size: 100%;
+     opacity: 0.4;
+}
+
+.inner-div {
+     background-color: #ffffff;
+     margin: 375px 200px 10px 200px;
+     padding: 10px;
+     opacity: 0.9;
+     text-align: center;
+}
+

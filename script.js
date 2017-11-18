@@ -1,11 +1,22 @@
 var quotes = [
-    "I raise up my voice—not so I can shout, but so that those without a voice can be heard...we cannot succeed when half of us are held back. ―Malala Yousafzai",
-    "If you want something said, ask a man; if you want something done, ask a woman. —Margaret Thatcher",
-    "I'm tough, I'm ambitious, and I know exactly what I want. If that makes me a bitch, okay. ―Madonna",
-    "It took me quite a long time to develop a voice, and now that I have it, I am not going to be silent. —Madeleine Albright",
-    "Feminism isn't about making women strong. Women are already strong. It's about changing the way the world perceives that strength. —G.D. Anderson",
-    "I love to see a young girl go out and grab the world by the lapels. Life's a bitch. You've got to go out and kick ass. —Maya Angelou",
-    "Women belong in all places where decisions are being made... It shouldn't be that women are the exception. —Ruth Bader Ginsburg",
+    "If you want me to take a dump in a box, and mark it guaranteed I will... I've got spare time.",
+    "Brothers don't shake hands. Brothers gotta hug.",
+    "Does this suit make me look fat?",
+    "Are you talking?",
+    "It's go time!",
+    "Look mommy, the rhino's getting too close to the car!",
+    "If I wanted a kiss, I'd call your mother!",
+    "Did I catch a 'niner' in there?",
+    "Housekeeping. You want mint for pillow?",
+    "Ugh, I can actually hear you getting fatter.",
+    "Yeah, and just a shade under a decade too. Allriiight.",
+    "Did you eat a lot of paint chips when you were a kid?",
+    "What'd you do?",
+    "Get yourself a new map.",
+    "Do you know where the weight room is? I'll check it out.",
+    "Fat guy in a liiittle coat.  Fat guy in a little coooat.",
+    "Richard, were you watching 'spanktrovision'?",
+    "That's gonna leave a mark."
     ]
 
 function newQuote() {
