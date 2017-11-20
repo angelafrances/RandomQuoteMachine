@@ -27,7 +27,7 @@ function newQuote() {
     currentQuote = quotes[Math.floor(Math.random() * quotes.length)];
 
     $('#quoteDisplay').html(currentQuote);
-    $('#tweetQuote').attr('href', 'https://twitter.com/intent/tweet?text='+currentQuote).attr('target', '_blank');
+    $('#tweetQuote').attr('href', 'https://twitter.com/intent/tweet?text=Tommy Boy says...'+currentQuote).attr('target', '_blank');
 
 }
 
